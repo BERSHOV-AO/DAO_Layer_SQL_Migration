@@ -1,0 +1,3 @@
+GET localhost:8080/products/fetch-product?name=aleksey
+Content-Type: application/json
+
